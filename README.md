@@ -1,14 +1,16 @@
-﻿# NorthSFTP
+# Versta
 
 A clean, practical SFTP client for Windows. Connect over SSH, browse remote files, edit text files with syntax highlighting, and transfer files between your computer and server.
 
+Formerly NorthSFTP.
+
 ## Download
 
-Open [Releases](https://github.com/Heperxxmax/northsftp-releases/releases/latest) and download the latest **NorthSFTP Setup** installer for Windows.
+Open [Releases](https://github.com/Heperxxmax/versta-releases/releases/latest) and download the latest **Versta Setup** installer for Windows.
 
 ## Updates
 
-NorthSFTP checks for updates automatically. You can also check manually in **Settings → Updates**.
+Versta checks for updates automatically. You can also check manually in **Settings → Updates**.
 
 ## Source code
 
